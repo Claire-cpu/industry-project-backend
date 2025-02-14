@@ -17,13 +17,14 @@ app.use(express.json());
 app.use(cors());
 
 app.use("/feedback", feedbackRoute);
+app.use("/images", express.static("./public/images"));
 
 app.get("/", (req, res) => {
   res.send("Welcome to the Industry API!!");
 });
 
 app.use("/api/questions", questionsRoutes);
-app.use("/api/success", successRoutes)
+app.use("/api/success", successRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
