@@ -3,7 +3,8 @@ import cors from "cors";
 import dotenv from "dotenv";
 import feedbackRoute from "./routes/feedback.js";
 
-import questionsRoutes from "./routes/questionsRoutes.js"
+import questionsRoutes from "./routes/questionsRoutes.js";
+import successRoutes from "./routes/successRoutes.js";
 
 dotenv.config();
 
@@ -22,6 +23,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/api/questions", questionsRoutes);
+app.use("/api/success", successRoutes)
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
