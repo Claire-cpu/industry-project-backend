@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 
+import questionsRoutes from "./routes/questionsRoutes.js"
+
 dotenv.config();
 
 const app = express();
@@ -15,6 +17,8 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send("Welcome to the Industry API!!");
 });
+
+app.use("/api/questions", questionsRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
