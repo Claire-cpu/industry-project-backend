@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "company": "Canadian Tire Corporation's AI Initiatives",
+    "photo": "/images/canadian_tire.png",
+    "story": "Canadian Tire Corporation (CTC) has embraced Microsoft's Azure AI services to boost employee productivity and enhance customer experiences. By migrating data to Microsoft Azure and developing digital assistants using Azure OpenAI Service, CTC has streamlined various tasks. The company's internal assistant, ChatCTC, is utilized by over 3,000 corporate employees for activities such as training, creating job descriptions, and generating product descriptions, saving employees 30 to 60 minutes daily. Additionally, CTC introduced CeeTee, an AI-powered shopping assistant designed to simplify the tire purchasing process for customers, leading to increased online sales conversions.",
+    "url": "https://www.microsoft.com/en/customers/story/19774-canadian-tire-azure"
+  },
+  {
+    "id": "2",
+    "company": "AltaML's Collaboration with Alberta Wildfire",
+    "photo": "/images/altaml.png",
+    "story": "AltaML, an AI solutions company, partnered with Alberta Wildfire to develop an AI system aimed at predicting wildfires and allocating resources more efficiently. Powered by Microsoft Azure Machine Learning, this solution has positively impacted wildfire management in the province, demonstrating AI's potential in environmental and public safety applications.",
+    "url": "https://news.microsoft.com/en-ca/2024/05/10/the-year-of-ai-adoption-ais-role-in-advancing-canadian-businesses/"
+  },
+  {
+    "id": "3",
+    "company": "Insight Canada",
+    "photo": "/images/insight_canada.png",
+    "story": "Insight Canada, a subsidiary of Insight Enterprises, achieved a 93% adoption rate of Microsoft Copilot among its employees, leading to significant productivity gains across sales, finance, and human resources. This accomplishment earned them the Microsoft AI and Copilot Partner of the Year award in 2024.",
+    "url": "https://www.microsoft.com/en/customers/story/1797709165933196148-insight-canada-microsoft-copilot-for-microsoft-365-other-en-united-states"
+  },
+  {
+    "id": "4",
+    "company": "City of Burlington",
+    "photo": "/images/burlington.png",
+    "story": "The City of Burlington developed MyFiles, a system utilizing AI and Microsoft Power Platform, enabling residents to track the status of building permit applications. Additionally, they deployed CoBy, an AI-powered digital assistant, to respond to resident inquiries on their website, enhancing transparency and customer service.",
+    "url": "https://www.microsoft.com/en/customers/story/18754-city-of-burlington-microsoft-power-platform"
+  },
+  {
+    "id": "5",
+    "company": "Cineplex",
+    "photo": "/images/cineplex.png",
+    "story": "Cineplex leveraged Microsoft's Power Automate and its generative AI capabilities to automate various processes across departments, resulting in an annual savings of 30,000 hours. This automation has led to increased efficiency and productivity within the organization.",
+    "url": "https://www.microsoft.com/en/customers/story/1751257654493783966-cineplex-telecommunications-power-automate-en-canada"
+  },
+  {
+    "id": "6",
+    "company": "City of Kelowna",
+    "photo": "/images/cineplex.png",
+    "story": "The City of Kelowna embraced generative AI to improve city services, support developers, and foster a culture of innovation. By integrating AI into their digital transformation efforts, they enhanced service delivery and attracted talented individuals to their team.",
+    "url": "https://wwps.microsoft.com/episodes/ai-kelowna"
+  }
+]
