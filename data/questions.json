@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "question": "What year was OpenAI founded?",
+    "correct_answer": "2015",
+    "incorrect_answers": ["2013", "2017"],
+    "hint": "It was the same year that Marty McFly traveled to in 'Back to the Future Part II.'"
+  },
+  {
+    "id": "2",
+    "question": "Which AI assistant is integrated into Microsoft 365 applications?",
+    "correct_answer": "Copilot",
+    "incorrect_answers": ["Siri", "Alexa"],
+    "hint": "Its name suggests a trusted companion guiding your productivity."
+  },
+  {
+    "id": "3",
+    "question": "What is the name of Microsoft’s cloud computing platform that hosts many AI models?",
+    "correct_answer": "Azure",
+    "incorrect_answers": ["OneDrive", "SharePoint"],
+    "hint": "Its name evokes a clear, blue sky where clouds reside."
+  },
+  {
+    "id": "4",
+    "question": "Which OpenAI tool generates images from text prompts?",
+    "correct_answer": "DALL·E",
+    "incorrect_answers": ["ChatGPT", "Whisper"],
+    "hint": "Its name is a playful mix of a surrealist artist and a beloved Pixar robot."
+  },
+  {
+    "id": "5",
+    "question": "In 2023, Microsoft announced deeper integration of OpenAI models into which search engine?",
+    "correct_answer": "Bing",
+    "incorrect_answers": ["Google", "Yahoo"],
+    "hint": "It’s known for helping you ‘find' things with a catchy, short name."
+  },
+  {
+    "id": "6",
+    "question": "What does “GPT” in ChatGPT stand for?",
+    "correct_answer": "Generalized Pre-trained Transformer ",
+    "incorrect_answers": [
+      "Global Processing Technology",
+      "Global Processing Technology"
+    ],
+    "hint": "The 'T' stands for a type of neural network architecture that transforms inputs into outputs."
+  },
+  {
+    "id": "7",
+    "question": "Which Microsoft tool allows automation of workflows without coding knowledge?",
+    "correct_answer": "Power Automate",
+    "incorrect_answers": ["Azure DevOps", "Outlook"],
+    "hint": "Its name suggests energizing your tasks with automatic flows."
+  },
+  {
+    "id": "8",
+    "question": "Which company is the largest investor in OpenAI?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": ["Amazon", "Google"],
+    "hint": "They’re known for Windows and Xbox—AI is their new power play."
+  },
+  {
+    "id": "9",
+    "question": "Which program does Microsoft offer to help Canadian small businesses adopt digital tools and improve productivity?",
+    "correct_answer": "Canada Digital Adoption Program (CDAP)",
+    "incorrect_answers": ["Microsoft BizSpark", "Azure Boost"], 
+     "hint": "Its acronym includes the name of the country it serves."
+  },
+  {
+    "id": "10",
+    "question": "Microsoft supports digital skills training in Canada through which initiative?",
+    "correct_answer": "Skills for Jobs",
+    "incorrect_answers": ["Code Canada", "LearnIT"], 
+    "hint": "The name emphasizes career readiness."
+  },
+  {
+    "id": "11",
+    "question": "In partnership with which organization does Microsoft provide technology and grants to Canadian nonprofits?",
+    "correct_answer": "Imagine Canada",
+    "incorrect_answers": ["United Way", "CanadaHelps"], 
+    "hint": "The organization’s name encourages creative solutions for the nonprofit sector."
+  },
+  {
+    "id": "12",
+    "question": "Microsoft’s AI for Earth program primarily supports initiatives in which area?",
+    "correct_answer": "Environmental sustainability",
+    "incorrect_answers": ["Renewable energy", "Urban development"], 
+    "hint": "Think green and global impact."
+  },
+  {
+    "id": "13",
+    "question": "Microsoft’s 'Tech for Social Impact' program is designed to help:",
+    "correct_answer": "Nonprofits leverage technology for social good",
+    "incorrect_answers": [
+      "Entrepreneurs with start-up funding",
+      "Developers learn cloud programming"
+    ], 
+    "hint": "This program empowers organizations that work for the greater good, rather than for profit."
+  },
+  {
+    "id": "14",
+    "question": "Which of the following is a goal of Microsoft’s philanthropic efforts in Canada?",
+    "correct_answer": "Bridge the digital skills gap",
+    "incorrect_answers": [
+      "Drive cloud adoption",
+      "Increase gaming accessibility"
+    ], 
+    "hint": "Think about how technology can help people prepare for the future job market."
+  },
+  {
+    "id": "15",
+    "question": "Microsoft Canada provides free or discounted software to which types of organizations?",
+    "correct_answer": "Nonprofits and educational institutions ",
+    "incorrect_answers": ["Government agencies", "Marketing firms"], 
+    "hint": "It’s all about supporting those who give back to communities and help educate the next generation."
+  },
+  {
+    "id": "16",
+    "question": "Which cloud solution does Microsoft donate to Canadian charities to improve operations and collaboration?",
+    "correct_answer": "Microsoft 365 ",
+    "incorrect_answers": ["OneDrive", "OneDrive"], 
+    "hint": "It’s a productivity suite designed to help teams communicate, create, and collaborate effectively."
+  },
+  {
+    "id": "17",
+    "question": "Microsoft’s ‘AI for Accessibility’ initiative supports projects focused on improving the lives of people with:",
+    "correct_answer": "Disabilities ",
+    "incorrect_answers": ["Seniors", "Students"], 
+    "hint": "The initiative empowers people who may face barriers in their daily lives due to physical or cognitive challenges."
+  },
+  {
+    "id": "18",
+    "question": "Which Canadian province hosts a major Microsoft datacenter supporting digital transformation and job creation?",
+    "correct_answer": "Ontario",
+    "incorrect_answers": ["British Columbia", "Alberta"], 
+    "hint": "It’s Canada’s most populous province and a hub for technology and innovation."
+  }
+]
