@@ -3,7 +3,7 @@
     "id": "1",
     "company": "Canadian Tire Corporation's AI Initiatives",
     "photo": "/images/canadian_tire.png",
-    "story": "Canadian Tire Corporation (CTC) has embraced Microsoft's Azure AI services to boost employee productivity and enhance customer experiences. By migrating data to Microsoft Azure and developing digital assistants using Azure OpenAI Service, CTC has streamlined various tasks. The company's internal assistant, ChatCTC, is utilized by over 3,000 corporate employees for activities such as training, creating job descriptions, and generating product descriptions, saving employees 30 to 60 minutes daily. Additionally, CTC introduced CeeTee, an AI-powered shopping assistant designed to simplify the tire purchasing process for customers, leading to increased online sales conversions.",
+    "story": "Canadian Tire Corporation (CTC) leverages Microsoft Azure AI to enhance productivity and customer experience. ChatCTC, used by over 3,000 corporate employees, streamlines tasks like training and job descriptions, saving up to 60 minutes daily. CeeTee, an AI shopping assistant, simplifies tire purchases, boosting online sales conversions.",
     "url": "https://www.microsoft.com/en/customers/story/19774-canadian-tire-azure"
   },
   {
